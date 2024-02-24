@@ -8,28 +8,28 @@
         </div>
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Support</p>
-            <a href="#" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+            <a href="#product" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
                 Contact Us!
             </a>
         </div>
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Research</p>
-            <a href="#" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+            <a href="product" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
               Read About DreiWebWorks
             </a>
         </div>
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Follow Us</p>
-            <a href="#" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+            <a href="#product" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
               <i class="fa-brands fa-instagram pr-2"> Instagram</i>
             </a>
-            <a href="#" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+            <a href="#reviews" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
                 <i class="fa-brands fa-linkedin pr-2"> Linkedin</i>
               </a>
-              <a href="#" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+              <a href="#product" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
                 <i class="fa-brands fa-facebook pr-2"> Facebook</i>
               </a>
-              <a href="#" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
+              <a href="#product" target="_blank" class="cursor-pointer hover:text-indigo-400 duration-200">
                 <i class="fa-brands fa-twitter pr-2"> twitter</i>
               </a>
         </div>
